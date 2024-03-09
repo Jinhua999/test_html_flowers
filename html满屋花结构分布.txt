@@ -1,0 +1,12 @@
+0.整体框架（mwh box）
+	1.头部分(mwh top)
+		1.1.横幅（banner）
+		1.2.导航（links）
+	2.左边部分（mwh left）
+		2.1.登录（login）
+		2.2.鲜花分类（category）
+	3.右边部分（mwh right）
+		3.1.本站快讯（latest）
+		3.2.鲜花推荐（recommend）
+		3.3.新品上市（new）
+		3.4.鲜花导购（tips）

@@ -1,0 +1,36 @@
+@charset "utf-8";
+
+*{  /*外边距*/
+	margin:0px;
+	/*内边距*/
+	padding:0px; 
+	list-style-type:none;
+	text-decoration:none;
+	color:#000;
+}
+body{
+	 margin:0px auto;
+	 /*图片宽度*/
+	 width:700px;
+	 /*图片高度*/
+	 font-size:12px;
+	 /*字体大小*/
+	 background-color:#FCC;
+}
+#left{
+	width:180px;
+	height:805px;
+	float:left;
+	margin-top:2px;
+	background-image:url(../img/leftbottom.jpg);
+	background-color:#FFF;
+	background-repeat:no-repeat;
+	background-position:bottom;
+}
+#right{
+	width:518px;
+	height:805px;
+	float:left;
+	margin-top:2px;
+	margin-left:2px;
+}

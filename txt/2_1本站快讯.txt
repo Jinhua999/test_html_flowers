@@ -1,0 +1,5 @@
+<ul>
+	<li><a href="#"><img src="imgs/new1.jpg" /></a></li>
+	<li><a href="#"><img src="imgs/new2.jpg" /></a></li>
+	<li><a href="#"><img src="imgs/new3.jpg" /></a></li>
+</ul>

@@ -1,0 +1,26 @@
+<ul>
+        <li><a href="#"><img src="imgs/flower1.jpg" /><br />
+          幸福的味道<br />
+          </a>￥288元</li>
+        <li><a href="#"><img src="imgs/flower2.jpg" /><br />
+          阳光守护你<br />
+          </a>￥300元</li>
+        <li><a href="#"><img src="imgs/flower3.jpg" /><br />
+          温情永远<br />
+          </a>￥268元</li>
+        <li><a href="#"><img src="imgs/flower4.jpg" /><br />
+          爱无界<br />
+          </a>￥318元</li>
+        <li><a href="#"><img src="imgs/flower5.jpg" /><br />
+          亲亲宝贝<br />
+          </a>￥368元</li>
+        <li><a href="#"><img src="imgs/flower6.jpg" /><br />
+          相信是缘<br />
+          </a>￥188元</li>
+        <li><a href="#"><img src="imgs/flower7.jpg" /><br />
+          水晶童话<br />
+          </a>￥198元</li>
+        <li><a href="#"><img src="imgs/flower8.jpg" /><br />
+          天使之爱<br />
+          </a>￥268元</li>
+      </ul>

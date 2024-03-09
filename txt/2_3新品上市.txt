@@ -1,0 +1,14 @@
+<ul>
+        <li><a href="#"><img src="imgs/flower9.jpg" /><br />
+          粉色迷情<br />
+          </a></li>
+        <li><a href="#"><img src="imgs/flower10.jpg" /><br />
+          海岸的幽雅<br />
+          </a></li>
+        <li><a href="#"><img src="imgs/flower11.jpg" /><br />
+          百年地中海<br />
+          </a></li>
+        <li><a href="#"><img src="imgs/flower12.jpg" /><br />
+          爱要说出口<br />
+          </a></li>
+</ul>

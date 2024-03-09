@@ -1,0 +1,33 @@
+@charset "utf-8";
+#box #top #banner{
+	background-image:url(../img/banner.jpg);
+	margin:0px auto 0px auto;
+	width:700px;
+	height:120px;
+	}
+#box #top #links ul li{
+	background-image:url(../img/button1.jpg);
+	width:100px;
+	/*左边浮动*/
+	float:left;
+	/*行内居中*/
+	text-align:center;
+	/*垂直居中*/
+	line-height:33px;
+}
+#box #top #links ul{
+	/*取消无序列表前面的点*/
+	list-style-type:none;
+	height:33px;
+}
+#box #top #links ul li a{
+	color:#F9C;
+	/*删除下划线*/
+	text-decoration:none;
+	/*点击图片转换到超链接*/
+	display:block;
+}
+#box #top #links ul li a:hover{
+	/*鼠标放上去变色*/
+	background-image:url(../img/button1_bg.jpg)
+}

@@ -1,0 +1,14 @@
+<ul>
+<form action="#" method="post" name="frmLogin">
+        <li>ำรปง:
+          <input name="txtUsername" type="text" class="txtStyle" />
+        </li>
+        <li>รÜย๋:
+          <input name="txtPwd" type="password" class="txtStyle" />
+        </li>
+        <li>
+          <input name="btnSubmit" type="button" value="ตวยผ" class="btnStyle" />
+          <input name="btnReg" type="button" value="ืขฒแ" class="btnStyle" />
+          <a href="#">อüผวรÜย๋</a></li>
+ </form>
+</ul>
